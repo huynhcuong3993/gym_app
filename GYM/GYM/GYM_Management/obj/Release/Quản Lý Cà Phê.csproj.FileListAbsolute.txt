@@ -1,0 +1,21 @@
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Release\Quản Lý Cà Phê.exe.config
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Release\Quản Lý Cà Phê.exe
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Release\Quản Lý Cà Phê.pdb
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Release\Guna.UI.dll
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Release\NuGet.Frameworks.dll
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Release\NuGet.Frameworks.xml
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản Lý Cà Phê.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản Lý Cà Phê.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản_Lý_Cà_Phê.Main.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản_Lý_Cà_Phê.Hoa_don.HD_phache.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản_Lý_Cà_Phê.Hoa_don.History_HD.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản_Lý_Cà_Phê.Properties.Resources.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản_Lý_Cà_Phê.UserControls.Home.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản_Lý_Cà_Phê.UserControls.Menu_sp.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản_Lý_Cà_Phê.UserControls.Thongke.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản_Lý_Cà_Phê.UserControls.Hoa_don.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản Lý Cà Phê.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản Lý Cà Phê.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản Lý Cà Phê.csproj.CopyComplete
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản Lý Cà Phê.exe
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Release\Quản Lý Cà Phê.pdb

@@ -1,0 +1,135 @@
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Main.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Hoa_don.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Home.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Menu_sp.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Thongke.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.exe.config
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.exe
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.pdb
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Guna.UI.dll
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Properties.Resources.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.CopyComplete
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.exe
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.pdb
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Hoa_don.HD_phache.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Hoa_don.History_HD.resources
+C:\Users\ACER\source\repos\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Login.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.exe.config
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.exe
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.pdb
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.AssemblyReference.cache
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Main.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Hoa_don.HD_phache.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Hoa_don.History_HD.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Login.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Properties.Resources.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.home.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Menu_sp.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Thongke.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Hoa_don.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.GenerateResource.cache
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.CoreCompileInputs.cache
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.CopyComplete
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.exe
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.pdb
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.exe.config
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.exe
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.pdb
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Guna.UI.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Main.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Hoa_don.HD_phache.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Hoa_don.History_HD.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Login.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Properties.Resources.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Account.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.home.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Menu_sp.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Thongke.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Hoa_don.resources
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.CopyComplete
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.exe
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.pdb
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Account.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.exe.config
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.exe
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Quản Lý Cà Phê.pdb
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\NuGet.Frameworks.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\NuGet.Frameworks.xml
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.AssemblyReference.cache
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Main.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Hoa_don.HD_phache.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Hoa_don.History_HD.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Login.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.Properties.Resources.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Account.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.home.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Menu_sp.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Thongke.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản_Lý_Cà_Phê.UserControls.Hoa_don.resources
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.GenerateResource.cache
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.CoreCompileInputs.cache
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.csproj.CopyComplete
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.exe
+C:\Users\lehuu\Desktop\BKCK_CNPM\CNPM_CK\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\obj\Debug\Quản Lý Cà Phê.pdb
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\stdole.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\NuGet.Frameworks.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lehuu\Desktop\BKCK_CNPM\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ACER\Downloads\Quản-Lý-Cà-Phê\Quản Lý Cà Phê\Quản Lý Cà Phê\bin\Debug\stdole.dll
