@@ -43,6 +43,7 @@ namespace GYM
                         {
                             if(comeBox.Text == "Quản lý")
                             {
+                                dm.AddDateWorked(row["E_ID"]);
                                 MessageBox.Show("Đăng nhập thành công");
                                 this.Hide();
                                 Main ma = new Main();

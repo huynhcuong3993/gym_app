@@ -34,16 +34,6 @@
             this.tab_Nhanvien = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.datagridView_NV = new System.Windows.Forms.DataGridView();
-            this.dataGird_MaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagrid_TenNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagird_Gender = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagrid_dob = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagrid_Email = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagrid_NPhone = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagrid_DG = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagrid_role = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagrid_CCCD = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.datagrid_Shift = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tab_Account = new System.Windows.Forms.TabPage();
             this.datagridView_AC = new System.Windows.Forms.DataGridView();
             this.datagrid_maNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -84,6 +74,16 @@
             this.combox_Shift = new Guna.UI.WinForms.GunaComboBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
+            this.dataGird_MaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagrid_TenNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagird_Gender = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagrid_dob = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagrid_Email = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagrid_NPhone = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagrid_DG = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagrid_role = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagrid_CCCD = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.datagrid_Shift = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.gunaPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -189,76 +189,6 @@
             this.datagridView_NV.Size = new System.Drawing.Size(488, 602);
             this.datagridView_NV.TabIndex = 32;
             this.datagridView_NV.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.datagridView_NV_CellClick);
-            // 
-            // dataGird_MaNV
-            // 
-            this.dataGird_MaNV.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.dataGird_MaNV.HeaderText = "Mã nhân viên";
-            this.dataGird_MaNV.MinimumWidth = 6;
-            this.dataGird_MaNV.Name = "dataGird_MaNV";
-            // 
-            // datagrid_TenNV
-            // 
-            this.datagrid_TenNV.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagrid_TenNV.HeaderText = "Họ tên ";
-            this.datagrid_TenNV.MinimumWidth = 6;
-            this.datagrid_TenNV.Name = "datagrid_TenNV";
-            // 
-            // datagird_Gender
-            // 
-            this.datagird_Gender.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagird_Gender.HeaderText = "Giới tính";
-            this.datagird_Gender.MinimumWidth = 6;
-            this.datagird_Gender.Name = "datagird_Gender";
-            // 
-            // datagrid_dob
-            // 
-            this.datagrid_dob.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagrid_dob.HeaderText = "Ngày sinh";
-            this.datagrid_dob.MinimumWidth = 6;
-            this.datagrid_dob.Name = "datagrid_dob";
-            // 
-            // datagrid_Email
-            // 
-            this.datagrid_Email.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagrid_Email.HeaderText = "Email";
-            this.datagrid_Email.MinimumWidth = 6;
-            this.datagrid_Email.Name = "datagrid_Email";
-            // 
-            // datagrid_NPhone
-            // 
-            this.datagrid_NPhone.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagrid_NPhone.HeaderText = "SĐT";
-            this.datagrid_NPhone.MinimumWidth = 6;
-            this.datagrid_NPhone.Name = "datagrid_NPhone";
-            // 
-            // datagrid_DG
-            // 
-            this.datagrid_DG.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagrid_DG.HeaderText = "Trình độ học vấn";
-            this.datagrid_DG.MinimumWidth = 6;
-            this.datagrid_DG.Name = "datagrid_DG";
-            // 
-            // datagrid_role
-            // 
-            this.datagrid_role.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagrid_role.HeaderText = "Chức vụ";
-            this.datagrid_role.MinimumWidth = 6;
-            this.datagrid_role.Name = "datagrid_role";
-            // 
-            // datagrid_CCCD
-            // 
-            this.datagrid_CCCD.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagrid_CCCD.HeaderText = "CCCD";
-            this.datagrid_CCCD.MinimumWidth = 6;
-            this.datagrid_CCCD.Name = "datagrid_CCCD";
-            // 
-            // datagrid_Shift
-            // 
-            this.datagrid_Shift.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.datagrid_Shift.HeaderText = "Ca làm";
-            this.datagrid_Shift.MinimumWidth = 6;
-            this.datagrid_Shift.Name = "datagrid_Shift";
             // 
             // tab_Account
             // 
@@ -894,6 +824,76 @@
             this.label14.TabIndex = 38;
             this.label14.Text = "Ca làm";
             // 
+            // dataGird_MaNV
+            // 
+            this.dataGird_MaNV.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.dataGird_MaNV.HeaderText = "Mã nhân viên";
+            this.dataGird_MaNV.MinimumWidth = 6;
+            this.dataGird_MaNV.Name = "dataGird_MaNV";
+            // 
+            // datagrid_TenNV
+            // 
+            this.datagrid_TenNV.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagrid_TenNV.HeaderText = "Họ tên ";
+            this.datagrid_TenNV.MinimumWidth = 6;
+            this.datagrid_TenNV.Name = "datagrid_TenNV";
+            // 
+            // datagird_Gender
+            // 
+            this.datagird_Gender.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagird_Gender.HeaderText = "Giới tính";
+            this.datagird_Gender.MinimumWidth = 6;
+            this.datagird_Gender.Name = "datagird_Gender";
+            // 
+            // datagrid_dob
+            // 
+            this.datagrid_dob.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagrid_dob.HeaderText = "Ngày sinh";
+            this.datagrid_dob.MinimumWidth = 6;
+            this.datagrid_dob.Name = "datagrid_dob";
+            // 
+            // datagrid_Email
+            // 
+            this.datagrid_Email.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagrid_Email.HeaderText = "Email";
+            this.datagrid_Email.MinimumWidth = 6;
+            this.datagrid_Email.Name = "datagrid_Email";
+            // 
+            // datagrid_NPhone
+            // 
+            this.datagrid_NPhone.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagrid_NPhone.HeaderText = "SĐT";
+            this.datagrid_NPhone.MinimumWidth = 6;
+            this.datagrid_NPhone.Name = "datagrid_NPhone";
+            // 
+            // datagrid_DG
+            // 
+            this.datagrid_DG.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagrid_DG.HeaderText = "Ngày đi làm";
+            this.datagrid_DG.MinimumWidth = 6;
+            this.datagrid_DG.Name = "datagrid_DG";
+            // 
+            // datagrid_role
+            // 
+            this.datagrid_role.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagrid_role.HeaderText = "Chức vụ";
+            this.datagrid_role.MinimumWidth = 6;
+            this.datagrid_role.Name = "datagrid_role";
+            // 
+            // datagrid_CCCD
+            // 
+            this.datagrid_CCCD.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagrid_CCCD.HeaderText = "CCCD";
+            this.datagrid_CCCD.MinimumWidth = 6;
+            this.datagrid_CCCD.Name = "datagrid_CCCD";
+            // 
+            // datagrid_Shift
+            // 
+            this.datagrid_Shift.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.datagrid_Shift.HeaderText = "Ca làm";
+            this.datagrid_Shift.MinimumWidth = 6;
+            this.datagrid_Shift.Name = "datagrid_Shift";
+            // 
             // Account
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -961,6 +961,13 @@
         private System.Windows.Forms.TabPage tab_Account;
         private System.Windows.Forms.TabControl tab;
         private System.Windows.Forms.TabPage tab_InFNhanVien;
+        private System.Windows.Forms.DataGridView datagridView_AC;
+        private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_maNV;
+        private System.Windows.Forms.DataGridViewTextBoxColumn datagride_Role;
+        private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_User;
+        private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_PD;
+        private Guna.UI.WinForms.GunaTextBox txt_CCCD;
+        private System.Windows.Forms.Label label14;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGird_MaNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_TenNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn datagird_Gender;
@@ -971,12 +978,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_role;
         private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_CCCD;
         private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_Shift;
-        private System.Windows.Forms.DataGridView datagridView_AC;
-        private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_maNV;
-        private System.Windows.Forms.DataGridViewTextBoxColumn datagride_Role;
-        private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_User;
-        private System.Windows.Forms.DataGridViewTextBoxColumn datagrid_PD;
-        private Guna.UI.WinForms.GunaTextBox txt_CCCD;
-        private System.Windows.Forms.Label label14;
     }
 }

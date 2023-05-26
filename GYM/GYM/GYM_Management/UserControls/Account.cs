@@ -49,6 +49,7 @@ namespace GYM.UserControls
                 datagridView_NV.Rows[index].Cells[3].Value = row["Dob"];
                 datagridView_NV.Rows[index].Cells[4].Value = row["Address"];
                 datagridView_NV.Rows[index].Cells[5].Value = row["Phone"];
+                datagridView_NV.Rows[index].Cells[6].Value = row["DateWorked"];
                 datagridView_NV.Rows[index].Cells[7].Value = row["Role"];
                 datagridView_NV.Rows[index].Cells[9].Value = row["IDS"];
 

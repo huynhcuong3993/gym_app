@@ -8,6 +8,7 @@ using System.Data;
 using System.Security.Cryptography;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 using System.Web.Security;
+using System.Xml.Linq;
 
 namespace GYM
 {
@@ -32,7 +33,7 @@ namespace GYM
         {
             List<Dictionary<string, string>> rows = new List<Dictionary<string, string>>();
             Dictionary<string, string> column;
-            string sqlQuery = "SELECT Username, Pass, Role FROM Employee";
+            string sqlQuery = "SELECT E_ID, Username, Pass, Role FROM Employee";
 
             SqlCommand command = new SqlCommand(sqlQuery, this.conn);
 
@@ -44,6 +45,7 @@ namespace GYM
                 {    //Every new row will create a new dictionary that holds the columns
                     column = new Dictionary<string, string>();
 
+                    column["E_ID"] = reader["E_ID"].ToString();
                     column["Username"] = reader["Username"].ToString();
                     column["Pass"] = reader["Pass"].ToString();
                     column["Role"] = reader["Role"].ToString();
@@ -61,11 +63,32 @@ namespace GYM
 
         }
 
+        public bool AddDateWorked(string id)
+        {
+            string addCmd = "update Employee set DateWorked = DateWorked + 1 where E_ID = @val1";
+            using (SqlCommand comm = new SqlCommand())
+            {
+                comm.Connection = conn;
+                comm.CommandText = addCmd;
+                comm.Parameters.AddWithValue("@val1", id);
+                try
+                {
+                    comm.ExecuteNonQuery();
+                    return true;
+                }
+                catch (SqlException e)
+                {
+                    Console.WriteLine(e.ToString());
+                    return false;
+                }
+            }
+        }
+
         public List<Dictionary<string, string>> FetchAllRow()
         {
             List<Dictionary<string, string>> rows = new List<Dictionary<string, string>>();
             Dictionary<string, string> column;
-            string sqlQuery = "SELECT E_ID, IDS, Name, Address, Phone, Dob, Gender, Username, Pass, Role FROM Employee";
+            string sqlQuery = "SELECT E_ID, IDS, Name, Address, Phone, Dob, Gender, Username, Pass, Role, DateWorked FROM Employee";
 
             SqlCommand command = new SqlCommand(sqlQuery, this.conn);
 
@@ -88,6 +111,7 @@ namespace GYM
                     column["Username"] = reader["Username"].ToString();
                     column["Pass"] = reader["Pass"].ToString();
                     column["Role"] = reader["Role"].ToString();
+                    column["DateWorked"] = reader["DateWorked"].ToString();
                     rows.Add(column); //Place the dictionary into the list
                 }
                 reader.Close();
