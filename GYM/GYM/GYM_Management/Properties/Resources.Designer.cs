@@ -299,5 +299,25 @@ namespace GYM.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap z4379917134250_b62821e3fe80e6d3afb9dd6bdf15ecd9 {
+            get {
+                object obj = ResourceManager.GetObject("z4379917134250_b62821e3fe80e6d3afb9dd6bdf15ecd9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap z4379917134250_b62821e3fe80e6d3afb9dd6bdf15ecd91 {
+            get {
+                object obj = ResourceManager.GetObject("z4379917134250_b62821e3fe80e6d3afb9dd6bdf15ecd91", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

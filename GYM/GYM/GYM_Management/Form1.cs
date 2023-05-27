@@ -38,7 +38,7 @@ namespace GYM
         {
             panel2.Height = btnHt.Height;
             panel2.Top = btnHt.Top;
-            UserControls.Account ac = new UserControls.Account();
+            UserControls.Employee ac = new UserControls.Employee();
             addUserControl(ac);
         }
 
@@ -98,6 +98,11 @@ namespace GYM
 
         private void Main_Load_1(object sender, EventArgs e)
         {
+        }
+
+        private void gunaButton4_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

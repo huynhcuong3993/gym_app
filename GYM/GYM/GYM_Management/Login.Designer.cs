@@ -45,9 +45,9 @@ namespace GYM
             this.txtUsername.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUsername.Location = new System.Drawing.Point(181, 92);
-            this.txtUsername.Margin = new System.Windows.Forms.Padding(2);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtUsername.Multiline = true;
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(262, 41);
@@ -59,9 +59,9 @@ namespace GYM
             this.txtPassword.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPassword.Location = new System.Drawing.Point(181, 173);
-            this.txtPassword.Margin = new System.Windows.Forms.Padding(2);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtPassword.Multiline = true;
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(262, 37);
@@ -104,7 +104,7 @@ namespace GYM
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Showpd.AutoSize = true;
             this.Showpd.Location = new System.Drawing.Point(346, 151);
-            this.Showpd.Margin = new System.Windows.Forms.Padding(2);
+            this.Showpd.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Showpd.Name = "Showpd";
             this.Showpd.Size = new System.Drawing.Size(101, 17);
             this.Showpd.TabIndex = 4;
@@ -120,7 +120,7 @@ namespace GYM
             this.btnLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnLogin.Location = new System.Drawing.Point(357, 272);
-            this.btnLogin.Margin = new System.Windows.Forms.Padding(2);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(85, 36);
             this.btnLogin.TabIndex = 7;
@@ -136,7 +136,7 @@ namespace GYM
             this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnExit.Location = new System.Drawing.Point(181, 272);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(2);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(83, 36);
             this.btnExit.TabIndex = 8;
@@ -152,7 +152,7 @@ namespace GYM
             "Thu ngân",
             "Pha chế"});
             this.comeBox.Location = new System.Drawing.Point(312, 244);
-            this.comeBox.Margin = new System.Windows.Forms.Padding(2);
+            this.comeBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.comeBox.Name = "comeBox";
             this.comeBox.Size = new System.Drawing.Size(131, 21);
             this.comeBox.TabIndex = 9;
@@ -187,7 +187,7 @@ namespace GYM
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.txtUsername);
             this.ForeColor = System.Drawing.Color.AliceBlue;
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";

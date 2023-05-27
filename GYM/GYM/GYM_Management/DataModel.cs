@@ -129,7 +129,7 @@ namespace GYM
         public bool AddNewRow(string eid, String ids, string name, string address, string phone, string dob, string gender, string username, string pass, string role)
         {
             string addCmd = "INSERT INTO Employee (E_ID, IDS, Name, Address, Phone, Dob, Gender, Username, Pass, Role) values (@val1, @val2, @val3, @val4, @val5,@val6, @val7, @val8, @val9, @val10)";
-            
+
             using (SqlCommand comm = new SqlCommand())
             {
                 comm.Connection = conn;

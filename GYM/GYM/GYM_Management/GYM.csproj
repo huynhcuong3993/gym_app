@@ -92,6 +92,24 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="Member\Ds.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Member\Ds.Designer.cs">
+      <DependentUpon>Ds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member\Giahan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Member\Giahan.Designer.cs">
+      <DependentUpon>Giahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member\Update.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Member\Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -100,11 +118,11 @@
     </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
     <Compile Include="System\FormClosingEventArgs.cs" />
-    <Compile Include="UserControls\Home.cs">
+    <Compile Include="UserControls\Member.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControls\Home.Designer.cs">
-      <DependentUpon>Home.cs</DependentUpon>
+    <Compile Include="UserControls\Member.Designer.cs">
+      <DependentUpon>Member.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControls\Thongke.cs">
       <SubType>UserControl</SubType>
@@ -118,11 +136,11 @@
     <Compile Include="UserControls\Hoa_don.Designer.cs">
       <DependentUpon>Hoa_don.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserControls\Account.cs">
+    <Compile Include="UserControls\Employee.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControls\Account.Designer.cs">
-      <DependentUpon>Account.cs</DependentUpon>
+    <Compile Include="UserControls\Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
     </Compile>
     <Compile Include="UsermodelLogin.cs" />
     <Compile Include="Util.cs" />
@@ -132,16 +150,25 @@
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Member\Ds.resx">
+      <DependentUpon>Ds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Member\Giahan.resx">
+      <DependentUpon>Giahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Member\Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserControls\Account.resx">
-      <DependentUpon>Account.cs</DependentUpon>
+    <EmbeddedResource Include="UserControls\Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserControls\Home.resx">
-      <DependentUpon>Home.cs</DependentUpon>
+    <EmbeddedResource Include="UserControls\Member.resx">
+      <DependentUpon>Member.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControls\Thongke.resx">
       <DependentUpon>Thongke.cs</DependentUpon>
@@ -267,6 +294,8 @@
     <None Include="Resources\icons8-close-64.png" />
     <None Include="Resources\icons8-delete-64.png" />
     <None Include="Resources\348952160_1358994187984765_7345638159542628170_n1.png" />
+    <None Include="Resources\z4379917134250_b62821e3fe80e6d3afb9dd6bdf15ecd9.jpg" />
+    <None Include="Resources\z4379917134250_b62821e3fe80e6d3afb9dd6bdf15ecd91.jpg" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

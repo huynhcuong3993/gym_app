@@ -41,7 +41,7 @@ namespace GYM
                     {
                         if (row["Role"] == "Quản lý")
                         {
-                            if(comeBox.Text == "Quản lý")
+                            if (comeBox.Text == "Quản lý")
                             {
                                 dm.AddDateWorked(row["E_ID"]);
                                 MessageBox.Show("Đăng nhập thành công");
@@ -59,7 +59,7 @@ namespace GYM
                 else MessageBox.Show("Tài khoản hoặc mật khẩu không chính xác");
                 return;
             }
-        } 
+        }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
@@ -78,11 +78,12 @@ namespace GYM
 
         private void txtUsername_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void txtPassword_TextChanged_1(object sender, EventArgs e)
         {
+            txtPassword.PasswordChar = '*';
         }
 
         private void Showpd_CheckedChanged(object sender, EventArgs e)
@@ -95,7 +96,6 @@ namespace GYM
 
         private void txtPassword_Enter(object sender, EventArgs e)
         {
-            txtPassword.PasswordChar = '*';
         }
     }
 }

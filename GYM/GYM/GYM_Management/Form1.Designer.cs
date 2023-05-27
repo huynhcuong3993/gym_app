@@ -32,21 +32,21 @@
             this.pageSetupDialog2 = new System.Windows.Forms.PageSetupDialog();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.gunaCirclePictureBox1 = new Guna.UI.WinForms.GunaCirclePictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.licensing1 = new Guna.UI.Licensing.Licensing();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.panelContainer = new System.Windows.Forms.Panel();
+            this.gunaCirclePictureBox1 = new Guna.UI.WinForms.GunaCirclePictureBox();
             this.btnHv = new Guna.UI.WinForms.GunaButton();
             this.btnHt = new Guna.UI.WinForms.GunaButton();
             this.btnTk = new Guna.UI.WinForms.GunaButton();
             this.btnHd = new Guna.UI.WinForms.GunaButton();
-            this.licensing1 = new Guna.UI.Licensing.Licensing();
-            this.panelContainer = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
             this.gunaButton1 = new Guna.UI.WinForms.GunaButton();
             this.gunaButton2 = new Guna.UI.WinForms.GunaButton();
             this.gunaButton3 = new Guna.UI.WinForms.GunaButton();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.gunaCirclePictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gunaCirclePictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -75,6 +75,55 @@
             this.panel4.Size = new System.Drawing.Size(139, 15);
             this.panel4.TabIndex = 1;
             // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.White;
+            this.panel2.Location = new System.Drawing.Point(3, 287);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(5, 74);
+            this.panel2.TabIndex = 0;
+            // 
+            // licensing1
+            // 
+            this.licensing1.BackColor = System.Drawing.Color.White;
+            this.licensing1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(28)))));
+            this.licensing1.Location = new System.Drawing.Point(0, 0);
+            this.licensing1.Margin = new System.Windows.Forms.Padding(4);
+            this.licensing1.MaximumSize = new System.Drawing.Size(348, 485);
+            this.licensing1.MinimumSize = new System.Drawing.Size(348, 485);
+            this.licensing1.Name = "licensing1";
+            this.licensing1.Size = new System.Drawing.Size(348, 485);
+            this.licensing1.TabIndex = 0;
+            // 
+            // panel3
+            // 
+            this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(52)))), ((int)(((byte)(77)))));
+            this.panel3.Controls.Add(this.gunaButton1);
+            this.panel3.Controls.Add(this.gunaButton2);
+            this.panel3.Controls.Add(this.gunaButton3);
+            this.panel3.Location = new System.Drawing.Point(284, 7);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(948, 35);
+            this.panel3.TabIndex = 2;
+            // 
+            // panelContainer
+            // 
+            this.panelContainer.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panelContainer.AutoSize = true;
+            this.panelContainer.BackColor = System.Drawing.Color.Black;
+            this.panelContainer.BackgroundImage = global::GYM.Properties.Resources.z4379917134250_b62821e3fe80e6d3afb9dd6bdf15ecd91;
+            this.panelContainer.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panelContainer.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.panelContainer.Location = new System.Drawing.Point(294, 48);
+            this.panelContainer.Name = "panelContainer";
+            this.panelContainer.Size = new System.Drawing.Size(938, 721);
+            this.panelContainer.TabIndex = 1;
+            this.panelContainer.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContainer_Paint);
+            // 
             // gunaCirclePictureBox1
             // 
             this.gunaCirclePictureBox1.BaseColor = System.Drawing.Color.White;
@@ -86,14 +135,6 @@
             this.gunaCirclePictureBox1.TabIndex = 0;
             this.gunaCirclePictureBox1.TabStop = false;
             this.gunaCirclePictureBox1.UseTransfarantBackground = false;
-            // 
-            // panel2
-            // 
-            this.panel2.BackColor = System.Drawing.Color.White;
-            this.panel2.Location = new System.Drawing.Point(3, 287);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(5, 74);
-            this.panel2.TabIndex = 0;
             // 
             // btnHv
             // 
@@ -199,43 +240,6 @@
             this.btnHd.Text = "Hóa đơn";
             this.btnHd.Click += new System.EventHandler(this.gunaButton3_Click);
             // 
-            // licensing1
-            // 
-            this.licensing1.BackColor = System.Drawing.Color.White;
-            this.licensing1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(28)))));
-            this.licensing1.Location = new System.Drawing.Point(0, 0);
-            this.licensing1.Margin = new System.Windows.Forms.Padding(4);
-            this.licensing1.MaximumSize = new System.Drawing.Size(348, 485);
-            this.licensing1.MinimumSize = new System.Drawing.Size(348, 485);
-            this.licensing1.Name = "licensing1";
-            this.licensing1.Size = new System.Drawing.Size(348, 485);
-            this.licensing1.TabIndex = 0;
-            // 
-            // panelContainer
-            // 
-            this.panelContainer.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.panelContainer.AutoSize = true;
-            this.panelContainer.BackColor = System.Drawing.Color.Black;
-            this.panelContainer.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.panelContainer.Location = new System.Drawing.Point(294, 48);
-            this.panelContainer.Name = "panelContainer";
-            this.panelContainer.Size = new System.Drawing.Size(938, 721);
-            this.panelContainer.TabIndex = 1;
-            this.panelContainer.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContainer_Paint);
-            // 
-            // panel3
-            // 
-            this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(52)))), ((int)(((byte)(77)))));
-            this.panel3.Controls.Add(this.gunaButton1);
-            this.panel3.Controls.Add(this.gunaButton2);
-            this.panel3.Controls.Add(this.gunaButton3);
-            this.panel3.Location = new System.Drawing.Point(284, 7);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(948, 35);
-            this.panel3.TabIndex = 2;
-            // 
             // gunaButton1
             // 
             this.gunaButton1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -326,8 +330,8 @@
             this.Text = "Main";
             this.Load += new System.EventHandler(this.Main_Load_1);
             this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.gunaCirclePictureBox1)).EndInit();
             this.panel3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.gunaCirclePictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

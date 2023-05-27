@@ -14,10 +14,10 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace GYM.UserControls
 {
-    public partial class Account : UserControl
+    public partial class Employee : UserControl
     {
         DataModel dm;
-        public Account()
+        public Employee()
         {
             InitializeComponent();
             LoadDataModel();
@@ -38,7 +38,7 @@ namespace GYM.UserControls
 
         private void LoadStaffData()
         {
-            
+
             List<Dictionary<string, string>> rows = dm.FetchAllRow();
             foreach (Dictionary<string, string> row in rows)
             {
@@ -87,38 +87,6 @@ namespace GYM.UserControls
             base.OnLoad(e);
         }
 
-        private void btn_Add_Click(object sender, EventArgs e)
-        {
-            string dob = dateTime_NV.Value.ToString("yyyy-MM-dd HH:mm:ss");
-            if (!dm.AddNewRow(txt_idNV.Text, combox_Shift.SelectedValue.ToString(), txt_nameNV.Text, txt_Email.Text, txt_Phone.Text, dob, comBox_Gender.Text, txt_Username.Text, txt_PassWord.Text, comBox_Role.Text))
-            {
-                MessageBox.Show("Failed"); 
-            }
-            ResetForm();
-            LoadStaffData();
-        }
-        private void comBox_Role_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        
-
-        private void LoadDataNV()
-        {
-            
-        }
-        private void LoadDataAC()
-        {
-
-        }
-
-        private void txt_idNV_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-
         private void gunaButton4_Click(object sender, EventArgs e)
         {
             string searchValue = txt_FindNV.Text.ToLower();
@@ -159,11 +127,92 @@ namespace GYM.UserControls
             /*txt_idNV_TextChanged(sender, e);*/
         }
 
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void comBox_Gender_Click(object sender, EventArgs e)
+        {
+            comBox_Gender.DisplayMember = "Text";
+            comBox_Gender.ValueMember = "Value";
+
+            var items = new[] {
+            new { Text = "Nam", Value = "Nam" },
+            new { Text = "Nữ", Value = "Nữ" },
+            };
+            comBox_Gender.DataSource = items;
+        }
+
+        private void comBox_Role_Click(object sender, EventArgs e)
+        {
+            comBox_Role.DisplayMember = "Text";
+            comBox_Role.ValueMember = "Value";
+
+            var items = new[] {
+            new { Text = "Quản lý", Value = "Quản lý" },
+            new { Text = "Thu ngân", Value = "Thu ngân" },
+            new { Text = "Pha chế", Value = "Pha chế" },
+            new { Text = "Phục vụ", Value = "Phục vụ" },
+            new { Text = "Bảo vệ", Value = "Bảo vệ" },
+            };
+            comBox_Role.DataSource = items;
+        }
+
+        private void combox_Shift_Click(object sender, EventArgs e)
+        {
+            combox_Shift.DisplayMember = "Text";
+            combox_Shift.ValueMember = "Value";
+
+            var items = new[] {
+            new { Text = "S0001", Value = "S0001" },
+            new { Text = "S0002", Value = "S0002" },
+            new { Text = "S0003", Value = "S0003" },
+            };
+            combox_Shift.DataSource = items;
+        }
+
+        private void datagridView_NV_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            txt_idNV.Text = datagridView_NV.Rows[e.RowIndex].Cells[0].Value.ToString();
+            txt_nameNV.Text = datagridView_NV.Rows[e.RowIndex].Cells[1].Value.ToString();
+            comBox_Gender.Text = datagridView_NV.Rows[e.RowIndex].Cells[2].Value.ToString();
+            dateTime_NV.Text = datagridView_NV.Rows[e.RowIndex].Cells[3].Value.ToString();
+            txt_Email.Text = datagridView_NV.Rows[e.RowIndex].Cells[4].Value.ToString();
+            txt_Phone.Text = datagridView_NV.Rows[e.RowIndex].Cells[5].Value.ToString();
+            comBox_Role.Text = datagridView_NV.Rows[e.RowIndex].Cells[7].Value.ToString();
+            combox_Shift.Text = datagridView_NV.Rows[e.RowIndex].Cells[9].Value.ToString();
+        }
+
+        private void datagridView_AC_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            txt_idNV.Text = datagridView_NV.Rows[e.RowIndex].Cells[0].Value.ToString();
+            txt_nameNV.Text = datagridView_NV.Rows[e.RowIndex].Cells[1].Value.ToString();
+            comBox_Gender.Text = datagridView_NV.Rows[e.RowIndex].Cells[2].Value.ToString();
+            dateTime_NV.Text = datagridView_NV.Rows[e.RowIndex].Cells[3].Value.ToString();
+            txt_Email.Text = datagridView_NV.Rows[e.RowIndex].Cells[4].Value.ToString();
+            txt_Phone.Text = datagridView_NV.Rows[e.RowIndex].Cells[5].Value.ToString();
+            comBox_Role.Text = datagridView_NV.Rows[e.RowIndex].Cells[7].Value.ToString();
+            combox_Shift.Text = datagridView_NV.Rows[e.RowIndex].Cells[9].Value.ToString();
+        }
+
+        private void btn_Add_Click(object sender, EventArgs e)
+        {
+            string dob = dateTime_NV.Value.ToString("yyyy-MM-dd HH:mm:ss");
+            if (!dm.AddNewRow(txt_idNV.Text, combox_Shift.SelectedValue.ToString(), txt_nameNV.Text, txt_Email.Text, txt_Phone.Text, dob, comBox_Gender.Text, txt_Username.Text, txt_PassWord.Text, comBox_Role.Text))
+            {
+                MessageBox.Show("Failed");
+            }
+            ResetForm();
+            LoadStaffData();
+        }
+
         private void btn_Update_Click(object sender, EventArgs e)
         {
             string dob = dateTime_NV.Value.ToString("yyyy-MM-dd HH:mm:ss");
+            string hashed = Util.SaltedHash(txt_PassWord.Text);
             if (!dm.UpdateRow(txt_idNV.Text, combox_Shift.SelectedValue.ToString(), txt_nameNV.Text, txt_Email.Text, txt_Phone.Text,
-                    dob, comBox_Gender.Text, txt_Username.Text, txt_PassWord.Text, comBox_Role.Text))
+                    dob, comBox_Gender.Text, txt_Username.Text, hashed, comBox_Role.Text))
             {
                 MessageBox.Show("Failed");
             }
@@ -189,68 +238,6 @@ namespace GYM.UserControls
                     MessageBox.Show("Cancelled");
                     break;
             }
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void comBox_Gender_Click(object sender, EventArgs e)
-        {
-            comBox_Gender.DisplayMember = "Text";
-            comBox_Gender.ValueMember = "Value";
-
-            var items = new[] {
-            new { Text = "Nam", Value = "Nam" },
-            new { Text = "Nữ", Value = "Nữ" },
-            };
-            comBox_Gender.DataSource = items;
-        }
-
-        private void comBox_Role_Click(object sender, EventArgs e)
-        {
-            comBox_Role.DisplayMember = "Text";
-            comBox_Role.ValueMember = "Value";
-
-            var items = new[] {
-            new { Text = "Quản lý", Value = "Quản lý" }, 
-            new { Text = "Thu ngân", Value = "Thu ngân" },
-            new { Text = "Pha chế", Value = "Pha chế" },
-            new { Text = "Phục vụ", Value = "Phục vụ" },
-            new { Text = "Bảo vệ", Value = "Bảo vệ" },
-            };
-            comBox_Role.DataSource = items; 
-        }
-
-        private void combox_Shift_Click(object sender, EventArgs e)
-        {
-            combox_Shift.DisplayMember = "Text";
-            combox_Shift.ValueMember = "Value";
-
-            var items = new[] {
-            new { Text = "S0001", Value = "S0001" },
-            new { Text = "S0002", Value = "S0002" },
-            new { Text = "S0003", Value = "S0003" },
-            };
-            combox_Shift.DataSource = items;
-        }
-
-        private void datagridView_AC_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-            txt_idNV.Text = datagridView_AC.Rows[e.RowIndex].Cells[0].Value.ToString();
-        }
-
-        private void datagridView_NV_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-            txt_idNV.Text = datagridView_NV.Rows[e.RowIndex].Cells[0].Value.ToString();
-            txt_nameNV.Text = datagridView_NV.Rows[e.RowIndex].Cells[1].Value.ToString();
-            comBox_Gender.Text = datagridView_NV.Rows[e.RowIndex].Cells[2].Value.ToString();
-            dateTime_NV.Text = datagridView_NV.Rows[e.RowIndex].Cells[3].Value.ToString();
-            txt_Email.Text = datagridView_NV.Rows[e.RowIndex].Cells[4].Value.ToString();
-            txt_Phone.Text = datagridView_NV.Rows[e.RowIndex].Cells[5].Value.ToString();
-            comBox_Role.Text = datagridView_NV.Rows[e.RowIndex].Cells[7].Value.ToString();
-            combox_Shift.Text = datagridView_NV.Rows[e.RowIndex].Cells[9].Value.ToString();
         }
     }
 }
